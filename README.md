@@ -17,7 +17,7 @@ There's some starter code in the `src/components` folder. We'll be adding state
 to some existing components and building out some functionality that depends on
 state.
 
-As a quick recap:
+As a quick recap: 
 
 > State is data that changes over time in your component. State must be
 > initialized in a component by calling `useState`. Updating state by calling
